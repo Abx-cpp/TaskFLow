@@ -1,4 +1,32 @@
-# React + Vite
+## TaskFlow – One-Page Task App Website
+TaskFlow is a modern, responsive one-page website built with **React + Vite + Tailwind CSS**.  
+It’s a fictional app landing page that helps people organize their tasks.  
+
+
+---
+
+## 🚀 Features
+
+- **Hero Section** – App name, tagline, and call-to-action button  
+- **Features Section** – Three core features with icons and descriptions  
+- **Reviews Section** – 2–3 testimonials from happy users  
+- **Pricing Section** – Three pricing options (Free, Pro, Team)  
+- **Footer** – Contact links and social media icons  
+- **Scroll Animation** – Each section fades in when you scroll  
+
+---
+
+## 🛠️ Tech Stack
+
+- [React](https://react.dev/)  
+- [Vite](https://vitejs.dev/)  
+- [Tailwind CSS](https://tailwindcss.com/)  
+- [React Icons](https://react-icons.github.io/react-icons/)  
+
+---
+
+
+## React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
